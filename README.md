@@ -15,3 +15,7 @@ This is the repository for the LinkedIn Learning course `Build AI Agents and Cha
 [lil-course-url]: https://www.linkedin.com/learning/build-ai-agents-and-chatbots-with-langgraph
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQG43w2UoFGhqA/learning-public-crop_675_1200/B4DZSa0e5nG4Ac-/0/1737764237244?e=2147483647&v=beta&t=UXmQzVGx5Bl45kFaiIPMtIv7FGkn5fR8fMOFwfoTF0k
 
+# Customized to use NaviGator by Matt Gitzendanner
+
+* This still uses Codespaces as in the LinkedIn Learning course.
+* The keys are stored in your GitHub account using [secrets for Codespaces](https://docs.github.com/en/codespaces/managing-your-codespaces/managing-your-account-specific-secrets-for-github-codespaces).
